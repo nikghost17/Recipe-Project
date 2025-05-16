@@ -15,8 +15,7 @@ A simple Django web app where you can add your favorite recipes with a **title**
 
 ## 📷 Demo
 
-![Demo Screenshot](media/demo.png)  
-*(Optional — add a screenshot of your project here if you like)*
+https://github.com/user-attachments/assets/5353df0b-ce09-4383-b69d-f3fd4a2a7e40
 
 ---
 
